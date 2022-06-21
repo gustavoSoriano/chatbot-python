@@ -10,7 +10,7 @@ jsonschema==3.0.1
 mathparse==0.1.2
 murmurhash==1.0.2
 nltk==3.4.5
-numpy==1.16.4
+numpy==1.22.0
 Pint==0.9
 pkg-resources==0.0.0
 plac==0.9.6
